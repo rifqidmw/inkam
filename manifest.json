@@ -7,7 +7,7 @@
   "theme_color": "#ee6e73",
   "icons": [
     {
-      "src": "/asset/ig.png",
+      "src": "/inkam/asset/ig.png",
       "sizes": "144x144",
       "type": "image/png"
     }
