@@ -8,7 +8,7 @@ fetch('/inkam/data/info.json')
       	// myList.appendChild(listItem);
 
       	var h5 = document.createElement("h5");
-    	h5.innerHTML = 'coba';
+    	h5.innerHTML = data.data[i].info_name;
     	myList.appendChild(h5);
 	}
 })
