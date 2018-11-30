@@ -11,3 +11,17 @@ fetch('/inkam/data/info.json')
 .catch(function(error) {
   console.log('Looks like there was a problem: \n', error);
 });
+
+var kampus = document.getElementById("datak");
+fetch('/inkam/data/kampus.json')
+.then(function(response) {
+  return response.json();
+}).then(function(data) {
+	for (var i = 0; i < data.data.length; i++) {
+    	var list = '<a class="nav-link" href="#"><img src="/inkam/asset/'+data.data[i].kampus_logo+'"><span>'+data.data[i].kampus_name+'</span></a>';
+		kampus.insertAdjacentHTML('beforeend', list);
+	}
+})
+.catch(function(error) {
+  console.log('Looks like there was a problem: \n', error);
+});

@@ -1,0 +1,19 @@
+{
+	"data" : [
+		{
+			"id_kampus" : 1,
+			"kampus_name" : "STMIK Akakom Yogyakarta",
+			"kampus_logo" : "akakom.png"
+		},
+		{
+			"id_kampus" : 2,
+			"kampus_name" : "STMIK Akakom Yogyakarta",
+			"kampus_logo" : "akakom.png"
+		},
+		{
+			"id_kampus" : 3,
+			"kampus_name" : "STMIK Akakom Yogyakarta",
+			"kampus_logo" : "akakom.png"
+		}
+	]
+}
