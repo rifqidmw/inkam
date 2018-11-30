@@ -7,13 +7,13 @@
 		},
 		{
 			"id_kampus" : 2,
-			"kampus_name" : "STMIK Akakom Yogyakarta",
-			"kampus_logo" : "akakom.png"
+			"kampus_name" : "Universitas Gadjah Mada",
+			"kampus_logo" : "ugm.jpg"
 		},
 		{
 			"id_kampus" : 3,
-			"kampus_name" : "STMIK Akakom Yogyakarta",
-			"kampus_logo" : "akakom.png"
+			"kampus_name" : "Universitas Negeri Yogyakarta",
+			"kampus_logo" : "uny.png"
 		}
 	]
 }
