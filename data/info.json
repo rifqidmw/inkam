@@ -1,0 +1,185 @@
+{
+    "msg": "data berhasil di ambil",
+    "data": [
+        {
+            "id_info": 1,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 1,
+            "created_at": "2018-11-26 07:34:56",
+            "updated_at": "2018-11-26 07:34:56"
+        },
+        {
+            "id_info": 2,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 2,
+            "created_at": "2018-11-26 07:34:56",
+            "updated_at": "2018-11-26 07:34:56"
+        },
+        {
+            "id_info": 3,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 3,
+            "created_at": "2018-11-26 07:34:57",
+            "updated_at": "2018-11-26 07:34:57"
+        },
+        {
+            "id_info": 4,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 4,
+            "created_at": "2018-11-26 07:34:57",
+            "updated_at": "2018-11-26 07:34:57"
+        },
+        {
+            "id_info": 5,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 5,
+            "created_at": "2018-11-26 07:34:57",
+            "updated_at": "2018-11-26 07:34:57"
+        },
+        {
+            "id_info": 6,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 6,
+            "created_at": "2018-11-26 07:34:57",
+            "updated_at": "2018-11-26 07:34:57"
+        },
+        {
+            "id_info": 7,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 7,
+            "created_at": "2018-11-26 07:34:57",
+            "updated_at": "2018-11-26 07:34:57"
+        },
+        {
+            "id_info": 8,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 8,
+            "created_at": "2018-11-26 07:34:57",
+            "updated_at": "2018-11-26 07:34:57"
+        },
+        {
+            "id_info": 9,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 9,
+            "created_at": "2018-11-26 07:34:57",
+            "updated_at": "2018-11-26 07:34:57"
+        },
+        {
+            "id_info": 10,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 10,
+            "created_at": "2018-11-26 07:34:57",
+            "updated_at": "2018-11-26 07:34:57"
+        },
+        {
+            "id_info": 11,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 11,
+            "created_at": "2018-11-26 07:34:57",
+            "updated_at": "2018-11-26 07:34:57"
+        },
+        {
+            "id_info": 12,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 12,
+            "created_at": "2018-11-26 07:34:57",
+            "updated_at": "2018-11-26 07:34:57"
+        },
+        {
+            "id_info": 13,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 13,
+            "created_at": "2018-11-26 07:34:57",
+            "updated_at": "2018-11-26 07:34:57"
+        },
+        {
+            "id_info": 14,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 14,
+            "created_at": "2018-11-26 07:34:57",
+            "updated_at": "2018-11-26 07:34:57"
+        },
+        {
+            "id_info": 15,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 15,
+            "created_at": "2018-11-26 07:34:57",
+            "updated_at": "2018-11-26 07:34:57"
+        },
+        {
+            "id_info": 16,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 16,
+            "created_at": "2018-11-26 07:34:57",
+            "updated_at": "2018-11-26 07:34:57"
+        },
+        {
+            "id_info": 17,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 17,
+            "created_at": "2018-11-26 07:34:58",
+            "updated_at": "2018-11-26 07:34:58"
+        },
+        {
+            "id_info": 18,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 18,
+            "created_at": "2018-11-26 07:34:58",
+            "updated_at": "2018-11-26 07:34:58"
+        },
+        {
+            "id_info": 19,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 19,
+            "created_at": "2018-11-26 07:34:58",
+            "updated_at": "2018-11-26 07:34:58"
+        },
+        {
+            "id_info": 20,
+            "info_name": "Pengumuman Acara Pendampingan Skripsi",
+            "info_image": "coba.jpg",
+            "info_desc": "Mengingat pentingnya acara tersebut, semua mahasiswa yang mengambil skripsi pada Semester Gasal di tahun ajaran 2018/2019 DIWAJIBKAN untuk hadir.<br>Hari, Tanggal : Jumat, 14 September 2018<br>\n\t\t\tPukul : 08.00 – Selesai<br>\n\t\t\tTempat : Ruang Presentasi<br>",
+            "id_kampus": 20,
+            "created_at": "2018-11-26 07:34:58",
+            "updated_at": "2018-11-26 07:34:58"
+        }
+    ]
+}
