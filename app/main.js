@@ -17,7 +17,7 @@ fetch('/inkam/data/info.json')
 
     	// myList.appendChild(div);
     	var lay = '<div class="col-sm-6 col-12"><div class="card"><div class="card-body"><h5>'+data.data[i].info_name+'</h5></div></div></div>';
-		myList.insertAdjacentHTML('afterend',lay);
+		myList.insertAdjacentHTML(lay);
 	}
 })
 .catch(function(error) {
