@@ -4,18 +4,6 @@ fetch('/inkam/data/info.json')
   return response.json();
 }).then(function(data) {
 	for (var i = 0; i < data.data.length; i++) {
-      	// var listItem = '<h5>'+data.data[i].info_name+'coba</h5>';
-      	// myList.appendChild(listItem);
-     //  	var div = document.createElement("div");
-     //  	div.className='col-12 col-sm-6';
-
-     //  	var card = document.createElement("div");
-
-     //  	var h5 = document.createElement("h5");
-    	// h5.innerHTML = data.data[i].info_name;
-    	// div.appendChild(h5);
-
-    	// myList.appendChild(div);
     	var lay = '<div class="col-sm-6 col-12"><div class="card"><img class="card-img-top" src="/inkam/asset/'+data.data[i].info_image+'"><div class="card-body"><h5>'+data.data[i].info_name+'</h5><span class="tgl">'+data.data[i].created_at+'</span><p class="card-text">'+data.data[i].info_desc+'</p><a href="" class="btn btn-sm btn-outline-warning">Selengkapnya...</a></div></div></div>';
 		myList.insertAdjacentHTML('beforeend', lay);
 	}
