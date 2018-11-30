@@ -2,7 +2,7 @@
   "name": "InKaM",
   "short_name": "InKaM",
   "lang": "en-US",
-  "start_url": "/",
+  "start_url": "/inkam/",
   "display": "standalone",
   "theme_color": "#ee6e73",
   "icons": [
