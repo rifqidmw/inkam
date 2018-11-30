@@ -1,4 +1,4 @@
-fetch('examples/example.json')
+fetch('/inkam/data/info.json')
 .then(function(response) {
   // Do stuff with the response
 })
